@@ -2,9 +2,6 @@
 
 <h4>I'm a fullstack developer that loves to solve problems and automatize stuffs of my daily life using codes. I having studing programmation since 2019, and currently have focused in learn about code quality and user experience.</h4> <br/>
 
-<br/>
-<br/>
-
 ## My github activity
 <div align="start">
   <a href="https://github.com/lukzz-al">
