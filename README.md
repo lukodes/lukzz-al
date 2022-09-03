@@ -1,6 +1,6 @@
 <h2>Hi There, i'm Lucas 👋</h2><br/> <img src="https://i.imgur.com/CTBjMmu.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Lucas Img"> 
 
-<h4>I'm a fullstack developer that loves to solve problems and automatize stuffs of my daily life using codes. I having studing programmation since 2019, and currently have focused in learn about code quality and user experience. If you have any doubt feel yourself free to join in contact.</h4> <br/>
+<h4>I'm a fullstack developer that loves to solve problems and automatize stuffs of my daily life using codes. I having studing programmation since 2019, and currently have focused in learn about code quality and user experience. If you have any doubt feel yourself free to join in contact. I'm a fullstack developer that loves to solve problems and automatize stuffs of my daily life using codes. I having studing programmation since 2019, and currently have focused in learn about code quality and user experience. If you have any doubt feel yourself free to join in contact.</h4> <br/>
 
 
 
