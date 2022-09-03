@@ -3,7 +3,7 @@
 <h4>I'm a fullstack developer that loves to solve problems and automatize stuffs of my daily life using codes. I having studing programmation since 2019, and currently have focused in learn about code quality and user experience.</h4> <br/>
 
 
-# My github activity
+## My github activity
 <div align="start">
   <a href="https://github.com/lukzz-al">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukzz-al&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
 </div><br/>
 
 
-# Skills
+## Skills
 <div style="display: inline_block"> 
     <span>Languages</span><br/>
     <img align="center" alt="Luke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
