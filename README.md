@@ -1,10 +1,12 @@
-<h2>Hi There, i'm Lucas 👋</h2><br/> <img src="https://i.imgur.com/CTBjMmu.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Lucas Img"> 
+[![Header](https://i.imgur.com/DKb0eYj.png "Header")](https://github.com/lukzz-al)
 
-<h4>I'm a fullstack developer that loves to solve problems and automatize stuffs of my daily life using codes. I having studing programmation since 2019, and nowadays working with web development using mainly javascript frameworks like VueJS and React, also focused in learn about code quality and designs pattern always concerning about the user experience. If you have any doubt feel yourself free to join in contact. </h4> <br/>
+<h2>Hi There, i'm Lucas 👋</h2><br/> <img src="https://i.imgur.com/CTBjMmu.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Lucas Img"> 
+
+<h4>My name is Lucas Almeida and I'm a full-stack developer currently working with Web Development using mainly javascript frameworks like VueJS and React. I love to solve problems and automatize stuff of my daily life using codes to turn easier the life of people around me and also my own. Althought I'm new in the Programmation world, because I just began to work with this recently, i'm already a bachelor degree in Science of Computation and my first contact for real with IT was in 2018. Also the fact i'm new with this keeps me very excited about learning a million things that I don't know yet and how can i apply these stuff in the practice. Nowadays I'm have focused in learn about code quality and designs pattern, always concerning about the user experience. Feel free to join in contact and if you have any doubts about my projects I will be happy to help you. </h4> <br/>
 
 
 
-## My github activity
+## 📈 My GitHub Activity
 <div align="start">
   <a href="https://github.com/lukzz-al">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukzz-al&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +14,7 @@
 </div><br/>
 
 
-## Skills
+## 🛠️ Skills
 <div style="display: inline_block"> 
     <span>Languages</span><br/>
     <img align="center" alt="Luke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
